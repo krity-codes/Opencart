@@ -1,0 +1,41 @@
+2025-07-14 00:03:36 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\Opencart\master.xml"
+2025-07-14 00:03:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Opencart\master.xml
+
+2025-07-14 00:04:25 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\Opencart\master.xml"
+2025-07-14 00:07:20 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\Opencart\master.xml"
+2025-07-14 00:07:33 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-14 00:07:35 INFO  TC001_AccountRegistrationTest:21 - Clicked on My Account
+2025-07-14 00:07:36 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register
+2025-07-14 00:07:36 INFO  TC001_AccountRegistrationTest:27 - Providing customer details......
+2025-07-14 00:07:37 INFO  TC001_AccountRegistrationTest:41 - Validating expected message
+2025-07-14 00:07:37 INFO  TC001_AccountRegistrationTest:62 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-14 00:07:43 INFO  TC002_LoginTest:16 - *********Starting TC002_LoginTest*********
+2025-07-14 00:07:48 INFO  TC002_LoginTest:43 - *********Finished TC002_LoginTest*********
+2025-07-14 17:03:26 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\Opencart\master.xml"
+2025-07-14 17:03:35 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-14 17:03:37 INFO  TC001_AccountRegistrationTest:21 - Clicked on My Account
+2025-07-14 17:03:38 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register
+2025-07-14 17:03:38 INFO  TC001_AccountRegistrationTest:27 - Providing customer details......
+2025-07-14 17:03:40 INFO  TC001_AccountRegistrationTest:41 - Validating expected message
+2025-07-14 17:03:40 INFO  TC001_AccountRegistrationTest:62 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-14 17:03:45 INFO  TC002_LoginTest:16 - *********Starting TC002_LoginTest*********
+2025-07-14 17:03:48 INFO  TC002_LoginTest:43 - *********Finished TC002_LoginTest*********
+2025-07-14 17:12:52 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\Opencart\master.xml"
+2025-07-14 17:12:59 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-14 17:13:02 INFO  TC001_AccountRegistrationTest:21 - Clicked on My Account
+2025-07-14 17:13:02 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register
+2025-07-14 17:13:02 INFO  TC001_AccountRegistrationTest:27 - Providing customer details......
+2025-07-14 17:13:04 INFO  TC001_AccountRegistrationTest:41 - Validating expected message
+2025-07-14 17:13:04 INFO  TC001_AccountRegistrationTest:62 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-14 17:13:09 INFO  TC002_LoginTest:16 - *********Starting TC002_LoginTest*********
+2025-07-14 17:13:12 INFO  TC002_LoginTest:43 - *********Finished TC002_LoginTest*********
+2025-07-14 17:14:09 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\Opencart\master.xml"
+2025-07-14 17:14:15 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-14 17:14:15 INFO  TC001_AccountRegistrationTest:21 - Clicked on My Account
+2025-07-14 17:14:16 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register
+2025-07-14 17:14:16 INFO  TC001_AccountRegistrationTest:27 - Providing customer details......
+2025-07-14 17:14:17 INFO  TC001_AccountRegistrationTest:41 - Validating expected message
+2025-07-14 17:14:18 INFO  TC001_AccountRegistrationTest:62 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-14 17:14:22 INFO  TC002_LoginTest:16 - *********Starting TC002_LoginTest*********
+2025-07-14 17:14:27 INFO  TC002_LoginTest:43 - *********Finished TC002_LoginTest*********
