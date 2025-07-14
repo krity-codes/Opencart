@@ -34,7 +34,7 @@ public class AccountRegistrationPage extends BasePage{
 	WebElement chkPolicy;
 	
 	@FindBy(xpath="//input[@value='Continue']")
-	WebElement continuebtn;                                              //nana123@gmail.com -mail   johnnana -pwd
+	WebElement continuebtn;                                            
 	
 	@FindBy(xpath="//h1[normalize-space()='Your Account Has Been Created!']")
 	WebElement confirmMsg;
